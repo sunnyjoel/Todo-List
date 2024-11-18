@@ -84,4 +84,4 @@ This repository contains the **To-Do List Application** with:
 ## Design Preview
 
 ### **Home Page**
-![Home Page](./design/homepage.png)
+![Home Page](./design/RegisterPage.png)
