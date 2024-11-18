@@ -66,14 +66,12 @@ This repository contains the **To-Do List Application** with:
 
 4. **Build and run the backend**
     ***Alternative: Build and Run Jar If you want to build a JAR file and run it manually:***
-    
+
    ```bash
     mvn clean package
  
-    
 
-
-4. **The application should now be running locally. You can open your browser and access the Backend at:**
+5. **The application should now be running locally. You can open your browser and access the Backend at:**
    http://localhost:8080
 
 ---
