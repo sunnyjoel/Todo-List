@@ -83,5 +83,20 @@ This repository contains the **To-Do List Application** with:
 -----
 ## Design Preview
 
-### **Home Page**
-![Home Page](./design/RegisterPage.png)
+### **Register Page**
+![Register Page](./design/RegisterPage.png)
+
+### **Login Page**
+![Login Page](./design/LoginPage.png)
+
+### **Project Page- Adding Project**
+![PRoject Page](./design/ProjectAdd.png)
+
+### **Todo Page - Adding todo**
+![Todo Page](./design/TodoAdd.png)
+
+### **Todo Page **
+![Todo Page](./design/Todo.png)
+
+### **Project Page- Update **
+![Project Page](./design/ProjectUpdate.png)
