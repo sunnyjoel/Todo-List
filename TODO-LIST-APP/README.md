@@ -17,8 +17,11 @@ This repository contains the **To-Do List Application** with:
 ### **Prerequisites**
 - Node.js (for the React frontend)
 - Java 17+ (for the Spring Boot backend)
+- Maven: Included in the Spring Boot project setup or can be installed separately.
 - MySQL (for the database)
 - Git (to clone the repository)
+- IDE (e.g., IntelliJ IDEA): Recommended for Java development.
+- npm (for package management in the React frontend)
 
 ---
 
@@ -60,6 +63,14 @@ This repository contains the **To-Do List Application** with:
     ***Or from terminal***
    ```bash
     ./mvnw spring-boot:run
+
+4. **Build and run the backend**
+    ***Alternative: Build and Run Jar If you want to build a JAR file and run it manually:***
+    
+   ```bash
+    mvn clean package
+ 
+    
 
 
 4. **The application should now be running locally. You can open your browser and access the Backend at:**
