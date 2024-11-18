@@ -47,7 +47,7 @@ This repository contains the **To-Do List Application** with:
 1. **Open the backend folder in IntelliJ IDEA.**
 
 2. **Configure the MySQL database**
-   *** Update application.properties in src/main/resources with your MySQL details:***
+   ***Update application.properties in src/main/resources with your MySQL details:***
    ```bash
     spring.datasource.url=jdbc:mysql://localhost:3306/todo_app
     spring.datasource.username=your-username
